@@ -1,0 +1,2 @@
+# oc_mettez-en-place-votre-environnement-python
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/3d67c0cd9fc84079b34a7e751ec3bf72)](https://app.codacy.com/gh/fleuryc/oc_mettez-en-place-votre-environnement-python?utm_source=github.com&utm_medium=referral&utm_content=fleuryc/oc_mettez-en-place-votre-environnement-python&utm_campaign=Badge_Grade_Settings)
